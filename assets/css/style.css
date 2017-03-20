@@ -1,0 +1,22 @@
+.dances{
+	margin-right: 10px;
+	margin-top: 5px;
+}
+#buttonsRow{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#gifImages {
+	max-height: 1100px;
+	overflow: hidden;
+}
+#gifImages div{
+	float: left;
+}
+#title {
+	font-family: 'Lobster', cursive;
+
+}
+.imageEffect{
+	cursor: pointer;
+}
